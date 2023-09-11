@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 download-content/calculando/calculando.cbp
 download-content/calculando/calculando.layout
+calculadora_simples/calculando/calculando.layout
+calculadora_simples/calculando/calculando.cbp
