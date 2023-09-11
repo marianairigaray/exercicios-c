@@ -1,2 +1,2 @@
 # exercicios-c
- Exercicios em C desenvolvidos durante aulas de introducao a programacao 
+ Exercícios em C desenvolvidos durante aulas de introdução a programação! 
