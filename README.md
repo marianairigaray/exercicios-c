@@ -1,2 +1,2 @@
 # exercicios-c
- Exercícios em C desenvolvidos durante aulas de introdução à programação! 
+Exercícios em linguagem C desenvolvidos durante a disciplina de Introdução à Programação do curso técnico em Eletrônica da Fundação Liberato.
